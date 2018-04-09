@@ -422,7 +422,7 @@ d_nauvoo_legion = {
 	
 	# Parent Religion 
 	religion = mormon
-	culture = mountainer
+	culture = utahn
 	
 	# Cannot be held as a secondary title
 	primary = yes

@@ -666,7 +666,8 @@ d_shomrim_composition = {
 
 d_nauvoo_legion_composition = {
 	levy_size = 1
-	pikemen = 800
+	pikemen = 700
+	heavy_infantry = 300
 	light_cavalry = 200
 }
 
