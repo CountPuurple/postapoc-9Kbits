@@ -664,6 +664,12 @@ d_shomrim_composition = {
 	pikemen = 400
 }
 
+d_nauvoo_legion = {
+	levy_size = 1
+	pikemen = 800
+	light_cavalry = 200
+}
+
 #Ship mercenary companies
 
 d_small_ships_composition = {
