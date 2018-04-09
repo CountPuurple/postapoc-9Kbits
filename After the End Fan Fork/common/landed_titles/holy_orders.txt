@@ -421,7 +421,7 @@ d_nauvoo_legion = {
 	holy_order = yes
 	
 	# Parent Religion 
-	religion = latter_day_saints
+	religion = mormon
 	culture = mountainer
 	
 	# Cannot be held as a secondary title
